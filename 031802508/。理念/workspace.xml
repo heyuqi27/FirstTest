@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8730c321-4d74-411d-bb09-8ce1493a1202" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hSXFBuk5IYMlDSEumdYXEddBSn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PaperCheck/cut.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in unit_test.py">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="finaltest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unit_test.test_main" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="finaltest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unit_test.test_main&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unit_test.test_main.test_add" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="finaltest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unit_test.test_main.test_add&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unit_test.test_main.test_rep" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="finaltest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unit_test.test_main.test_rep&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in unit_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="finaltest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unit_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in unit_test.py" />
+        <item itemvalue="Python tests.Unittests for unit_test.test_main.test_rep" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Unittests for unit_test.test_main.test_add" />
+        <item itemvalue="Python tests.Unittests for unit_test.test_main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8730c321-4d74-411d-bb09-8ce1493a1202" name="Default Changelist" comment="" />
+      <created>1600005360023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600005360023</updated>
+      <workItem from="1600176040981" duration="113000" />
+      <workItem from="1600176219263" duration="1576000" />
+      <workItem from="1600181097670" duration="4952000" />
+      <workItem from="1600186069984" duration="2220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="19" key="#Inspections" timestamp="1600171440036">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="267" y="19" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1600171440036" />
+    <state x="399" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600079215281">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1600079215281" />
+    <state x="340" y="0" key="#main" timestamp="1600012770582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="340" y="0" key="#main/0.0.1280.680@0.0.1280.680" timestamp="1600012770582" />
+    <state x="378" y="0" key="Diagram.Print.Preview.Dialog" timestamp="1600177269502">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="378" y="0" key="Diagram.Print.Preview.Dialog/0.0.1280.680@0.0.1280.680" timestamp="1600177269502" />
+    <state x="427" y="101" key="FileChooserDialogImpl" timestamp="1600186676685">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="427" y="101" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600186676685" />
+    <state width="1237" height="86" key="GridCell.Tab.0.bottom" timestamp="1600188291423">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="86" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600188291423" />
+    <state width="1237" height="86" key="GridCell.Tab.0.center" timestamp="1600188291422">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="86" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600188291422" />
+    <state width="1237" height="86" key="GridCell.Tab.0.left" timestamp="1600188291422">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="86" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600188291422" />
+    <state width="1237" height="86" key="GridCell.Tab.0.right" timestamp="1600188291422">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="86" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600188291422" />
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1600172068687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600172068687" />
+    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1600172068687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1600172068687" />
+    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1600172068687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1600172068687" />
+    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1600172068687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1600172068687" />
+    <state x="161" y="0" key="SettingsEditor" timestamp="1600188017255">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="161" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600188017255" />
+    <state x="309" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1600013222060">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="309" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1600013222060" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/finaltest$Unittests_for_unit_test_test_main_test_add.coverage" NAME="Unittests for unit_test.test_main.test_add Coverage Results" MODIFIED="1600185396735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/finaltest$Unittests_in_testtime_py.coverage" NAME="Unittests in testtime.py Coverage Results" MODIFIED="1600184884464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/finaltest$main_test.coverage" NAME="main_test Coverage Results" MODIFIED="1600184981823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/finaltest$Unittests_in_unit_test_py.coverage" NAME="Unittests in unit_test.py Coverage Results" MODIFIED="1600188216587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/finaltest$Unittests_for_unit_test_test_main_test_mix.coverage" NAME="Unittests for unit_test.test_main.test_mix Coverage Results" MODIFIED="1600176548343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/finaltest$Unittests_for_unit_test_test_main.coverage" NAME="Unittests for unit_test.test_main Coverage Results" MODIFIED="1600184989255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/finaltest$Unittests_for_unit_test_test_main_test_orig_15.coverage" NAME="Unittests for unit_test.test_main.test_orig_15 Coverage Results" MODIFIED="1600184942475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/finaltest$Unittests_in_testtime2_py.coverage" NAME="Unittests in testtime2.py Coverage Results" MODIFIED="1600184625828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/finaltest$main.coverage" NAME="main Coverage Results" MODIFIED="1600185734763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/finaltest$Unittests_for_unit_test_test_main_test_orig_1.coverage" NAME="Unittests for unit_test.test_main.test_orig_1 Coverage Results" MODIFIED="1600184237865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/finaltest$Unittests_for_testtime_TestStudent_test_80_to_100.coverage" NAME="Unittests for testtime.TestStudent.test_80_to_100 Coverage Results" MODIFIED="1600184787318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/finaltest$Unittests_for_unit_test_test_main_test_rep.coverage" NAME="Unittests for unit_test.test_main.test_rep Coverage Results" MODIFIED="1600186092512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
